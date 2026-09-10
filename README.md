@@ -3,7 +3,7 @@ NEURALIX is a modern AI-powered creative platform designed to bring different AI
 The project includes a complete responsive homepage with a futuristic UI, smooth animations, AI studio sections, model exploration, showcase gallery, pricing, and other supporting pages.
 
 
-# Live Link : https://neuralix-7nkpmbh93-aneeka.vercel.app/
+# Live Link : https://neuralix-ai.vercel.app/
 
 # Screenshot 
 <img width="1358" height="644" alt="screenshot-1789019189632" src="https://github.com/user-attachments/assets/e9801df9-999c-4a1e-845d-1c94e45ab3c5" />
